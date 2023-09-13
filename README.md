@@ -18,7 +18,7 @@ I'm a computer science student at Uni-Facef in 4th semester
 ---
 
 <div id="badges">
-  <a href="www.linkedin.com/in/vitória-hillary-alarcon">
+  <a href="https://www.linkedin.com/in/vitória-hillary-alarcon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style-for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/vitoriahillary_">
