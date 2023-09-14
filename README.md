@@ -5,7 +5,7 @@ I'm a computer science student at Uni-Facef in 4th semester
 - 💻 learning frontend and backend
 - 👾 I plan to become fullstack
 
-<div>
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height"40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height"40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height"40"/>&nbsp;
@@ -17,7 +17,7 @@ I'm a computer science student at Uni-Facef in 4th semester
 
 ---
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/vitória-hillary-alarcon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style-for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
