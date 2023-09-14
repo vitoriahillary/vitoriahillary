@@ -1,4 +1,3 @@
-<img src="giphy.gif" width="320px" align="right">
 
 # Hello, Wellcome to my GitHub! It's good to have you here
 I'm a computer science student at Uni-Facef in 4th semester
@@ -29,7 +28,7 @@ I'm a computer science student at Uni-Facef in 4th semester
 
 ---
 
-<div align = "left">
+<div align = "center">
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriahillary&show_icons=true&theme=bear&count_private=true"/>
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=vitoriahillary&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
