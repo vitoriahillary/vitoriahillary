@@ -4,6 +4,8 @@ I'm a computer science student at Uni-Facef in 4th semester
 
 - 💻 learning frontend and backend
 - 👾 I plan to become fullstack
+  
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height"40"/>&nbsp;
@@ -15,7 +17,7 @@ I'm a computer science student at Uni-Facef in 4th semester
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height"40"/>&nbsp;
 </div>
 
----
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/vitória-hillary-alarcon">
