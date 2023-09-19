@@ -42,3 +42,5 @@ I'm a computer science student at Uni-Facef in 4th semester
 </div>
 
 <img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
