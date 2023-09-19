@@ -44,3 +44,4 @@ I'm a computer science student at Uni-Facef in 4th semester
 <img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 ![Snake animation](https://github.com/vitoriahillary/vitoriahillary/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vitoriahillary&repo=vitoriahillary&theme-react)](https://github.com/vitoriahillary/vitoriahillary)
